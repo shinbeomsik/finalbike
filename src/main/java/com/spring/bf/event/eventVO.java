@@ -5,7 +5,6 @@ import java.sql.Date;
 
 import org.springframework.format.annotation.DateTimeFormat;
 
-import javafx.util.converter.DateStringConverter;
 
 public class eventVO {
 		private int no;
